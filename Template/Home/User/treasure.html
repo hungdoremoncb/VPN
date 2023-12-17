@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html id="iframe">
+	<head>
+		<meta charset="UTF-8">
+		
+		<title>{:C('sitename')} - Vinper </title>
+		
+		<meta name="renderer" content="webkit">
+		<meta name="format-detection" content="telephone=no,email=no"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0">
+		<meta name="telephone=no"  content="format-detection">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="format-detection" content="telephone=no" />
+		
+		<META HTTP-EQUIV="Pragma" CONTENT="no-cache"> 
+		<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"> 
+		<META HTTP-EQUIV="Expires" CONTENT="0">
+		
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/lib.css"/>
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/public.css"/>
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/page.css"/>
+	</head>
+	<style>
+		/*分页样式*/
+		.pages a,.pages span {
+		    display:inline-block;
+		    padding:4px 7px;
+		    margin:0 2px;
+		    border:1px solid #D5D4D4;
+		    -webkit-border-radius:1px;
+		    -moz-border-radius:1px;
+		    border-radius:1px;
+		}
+		.pages a,.pages li {
+		    display:inline-block;
+		    list-style: none;
+		    text-decoration:none; color:#15AF11;
+		}
+		
+		.pages a:hover{
+		    border-color:#15AF11;
+		}
+		.pages span.current{
+		    background:#15AF11;
+		    color:#FFF;
+		    font-weight:700;
+		    border-color:#15AF11;
+		}
+		.pages{
+			margin-top: 8px;
+			text-align: center;
+		}
+		.ptitle{
+			height: 45px;
+			line-height: 45px;
+		}
+		/* .tj{color:#c7baba;} */
+		/*分页样式*/
+	</style>
+	<body>
+		<div class="header">
+		  <div class="all_w ">
+		    <div class="gofh"> <a href="javascript:history.back()"><img src="/Public/Home/new/css/ico/left.png"style="width: 20px;"></a> </div>
+		     <div class="ptitle">
+		      余额宝记录
+		    </div>
+		  </div>
+		</div>
+		<div class="record">
+			<div class="record-top">
+				<!-- <p class="intro">
+					<span>会员:<i>{$userinfo.nickname}</i></span>
+					<span>点数:<i>{$userinfo.points}</i></span>
+					<span>代理:<i>DS1688</i></span>
+					<span>编号:<i>PKW{$userinfo.id}</i></span>
+				</p> -->
+				<p class="lable">
+					<!--
+					<a href="{:U('Home/Run/record')}?t=1"><span>{$today|date="m-d",###}</span></a>
+					-->
+					
+					<!-- <a href="{:U('Home/Run/record')}?t=2"><span>{$today-86400|date="m-d",###}</span></a> -->
+					<!-- <a href="{:U('Home/Run/record')}?t=3"><span>{$today-86400*2|date="m-d",###}</span></a> -->
+					<!--
+					<a href="{:U('Home/Run/record')}?t=4"><span>账务</span></a>
+					-->
+				</p>
+			</div>
+			<div class="record-content">
+				<empty name="list">
+					<p class="record-no"><span>
+						 无余额宝资料
+					</span></p>
+					<else/>
+					 
+						<table>
+							<thead>
+								<tr>
+									<th>类型</th>
+									<th>发生金额</th>
+									<th>本金</th>
+									<th>利息</th>
+									<th>时间</th>
+									<th>状态</th>
+									<th>详情</th>
+								</tr>	
+							</thead>
+							<tbody>
+								<volist name="list" id="vo">
+									<tr>
+										 
+										<td>{$vo.types}</td>
+										<td>{$vo.moneys}</td>
+										<td>{$vo.treasure_capital}</td>
+										<td>{$vo.treasure_rates}</td>
+										<td>{$vo.times|date="Y-m-d H:i:s",###}</td> 
+										<td>{$vo.status}</td>
+										<td>{$vo.details}</td>
+												
+									</tr>
+								</volist>
+							</tbody>
+						</table>
+						 
+					 
+				</empty>
+			</div>
+			 
+			<div class="pages">
+				{$show}
+			</div>
+		</div>
+		
+		
+		<script src='//cdn.bootcss.com/jquery/1.11.3/jquery.js'></script>
+		<script src="__PUBLIC__/layer/layer.js"></script>
+		<script>
+			function del(id){
+				layer.open({
+				    content: '您确定要取消吗？'
+				    ,btn: ['确认', '取消']
+				    ,yes: function(index){
+				      	layer.close(index);
+				      	$.ajax({
+	                       	url: "{:U('Home/Run/del')}",
+	                       	type: "post",
+	                       	data:{'id':id},
+	                       	dataType:'json',
+	                       	error:function(){
+	                       		parent.layer.open({content: '服务器开小差了~',skin: 'msg',time: 2});
+		                    },
+	                       	success:function(res){
+	                       		location.href=location.href;
+	                       	}
+	                   	});
+				    }
+				});
+			}
+			// function del_all(number){
+			// 	layer.open({
+			// 	    content: '您确定要取消吗？'
+			// 	    ,btn: ['确认', '取消']
+			// 	    ,yes: function(index){
+			// 	      	layer.close(index);
+			// 	      	$.ajax({
+	  //                      	url: "{:U('Home/Run/del_all')}",
+	  //                      	type: "post",
+	  //                      	data:{'number':number},
+	  //                      	dataType:'json',
+	  //                      	error:function(){
+	  //                      		parent.layer.open({content: '服务器开小差了~',skin: 'msg',time: 2});
+		 //                    },
+	  //                      	success:function(res){
+	  //                      		location.href=location.href;
+	  //                      	}
+	  //                  	});
+			// 	    }
+			// 	});
+			// }
+		</script>
+	</body>
+</html>
+
+

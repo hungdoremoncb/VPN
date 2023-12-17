@@ -1,0 +1,152 @@
+[ 2023-12-17T05:32:22+08:00 ]  
+ERR: syntax error, unexpected 'åú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T05:47:51+08:00 ]  
+ERR: syntax error, unexpected 'åú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T05:48:10+08:00 ]  
+ERR: syntax error, unexpected 'åú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T05:48:13+08:00 ]  
+ERR: syntax error, unexpected 'åú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T05:49:55+08:00 ]  
+ERR: syntax error, unexpected 'åú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T05:50:16+08:00 ]  
+ERR: syntax error, unexpected 'åú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T05:55:41+08:00 ]  
+ERR: syntax error, unexpected 'Å' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T05:57:54+08:00 ]  
+ERR: syntax error, unexpected 'Å' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T05:58:24+08:00 ]  
+ERR: syntax error, unexpected 'ñâÄûåÉú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T06:01:42+08:00 ]  
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SHOW COLUMNS FROM `think_caiji`
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SELECT * FROM `think_caiji` WHERE ( game='k3' ) ORDER BY id desc LIMIT 1  
+ERR: Call to undefined function Home\Controller\k3_format()
+
+[ 2023-12-17T06:02:27+08:00 ]  
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SHOW COLUMNS FROM `think_caiji`
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SELECT * FROM `think_caiji` WHERE ( game='k3' ) ORDER BY id desc LIMIT 1  
+ERR: Call to undefined function Home\Controller\k3_format()
+
+[ 2023-12-17T06:05:20+08:00 ]  
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SHOW COLUMNS FROM `think_caiji`
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SELECT * FROM `think_caiji` WHERE ( game='k3' ) ORDER BY id desc LIMIT 1  
+ERR: Call to undefined function Home\Controller\k3_format()
+
+[ 2023-12-17T06:06:19+08:00 ]  
+ERR: syntax error, unexpected 'Äìòé' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T06:06:40+08:00 ]  
+ERR: syntax error, unexpected 'Äìòé' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T06:07:37+08:00 ]  
+ERR: syntax error, unexpected 'Äìòé' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T07:37:34+08:00 ]  
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Workerman
+
+[ 2023-12-17T08:34:15+08:00 ]  
+ERR: syntax error, unexpected 'åì' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T08:34:21+08:00 ]  
+ERR: syntax error, unexpected 'êÄìîùóÇñï' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T08:34:25+08:00 ]  
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Workermanbj28_2
+
+[ 2023-12-17T08:40:38+08:00 ]  
+ERR: syntax error, unexpected 'foreach' (T_FOREACH)
+
+[ 2023-12-17T08:40:57+08:00 ]  
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Workerman
+
+[ 2023-12-17T08:41:14+08:00 ]  
+ERR: syntax error, unexpected 'foreach' (T_FOREACH)
+
+[ 2023-12-17T08:41:23+08:00 ]  
+ERR: syntax error, unexpected 'Å' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T08:41:26+08:00 ]  
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SHOW COLUMNS FROM `think_caiji`
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SELECT * FROM `think_caiji` WHERE ( game='k3' ) ORDER BY id desc LIMIT 1  
+ERR: Call to undefined function Home\Controller\k3_format()
+
+[ 2023-12-17T08:41:42+08:00 ]  
+ERR: syntax error, unexpected 'úÖ' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2023-12-17T08:41:50+08:00 ]  
+ERR: syntax error, unexpected 'ò' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T08:41:55+08:00 ]  
+ERR: syntax error, unexpected 'êÄìîùóÇñï' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T08:41:58+08:00 ]  
+ERR: syntax error, unexpected 'åì' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T08:42:16+08:00 ]  
+ERR: syntax error, unexpected 'åì' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:02+08:00 ]  
+ERR: syntax error, unexpected 'åú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:05+08:00 ]  
+ERR: syntax error, unexpected 'Å' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:13+08:00 ]  
+ERR: syntax error, unexpected 'åì' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:14+08:00 ]  
+ERR: syntax error, unexpected 'êÄìîùóÇñï' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:15+08:00 ]  
+ERR: syntax error, unexpected 'ñâÄûåÉú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:34+08:00 ]  
+ERR: syntax error, unexpected 'åú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:35+08:00 ]  
+ERR: syntax error, unexpected 'Å' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:36+08:00 ]  
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SHOW COLUMNS FROM `think_caiji`
+ERR: 1932:Table 'zzmaku_com.think_caiji' doesn't exist in engine
+ [ SQLËØ≠Âè• ] : SELECT * FROM `think_caiji` WHERE ( game='k3' ) ORDER BY id desc LIMIT 1  
+ERR: Call to undefined function Home\Controller\k3_format()
+
+[ 2023-12-17T09:07:39+08:00 ]  
+ERR: syntax error, unexpected 'Äìòé' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:40+08:00 ]  
+ERR: syntax error, unexpected 'úÖ' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2023-12-17T09:07:41+08:00 ]  
+ERR: syntax error, unexpected 'èìÅíáëÅ' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2023-12-17T09:07:44+08:00 ]  
+ERR: syntax error, unexpected 'ò' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:44+08:00 ]  
+ERR: syntax error, unexpected 'ñâÄûåÉú' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:45+08:00 ]  
+ERR: syntax error, unexpected 'êÄìîùóÇñï' (T_STRING), expecting ';' or ','
+
+[ 2023-12-17T09:07:45+08:00 ]  
+ERR: syntax error, unexpected 'åì' (T_STRING), expecting ';' or ','
+

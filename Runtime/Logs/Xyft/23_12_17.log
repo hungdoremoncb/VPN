@@ -1,0 +1,667 @@
+[ 2023-12-17T08:29:26+08:00 ] 127.0.0.1 /$1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:$1
+
+[ 2023-12-17T08:29:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2023-12-17T08:29:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001719s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001772s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2023-12-17T08:29:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2023-12-17T08:29:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000167s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2023-12-17T08:29:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2023-12-17T08:29:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000202s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2023-12-17T08:29:38+08:00 ] ::1 /ad/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Ad
+
+[ 2023-12-17T08:29:41+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000305s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2023-12-17T08:29:42+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2023-12-17T08:33:02+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000559s ]
+
+[ 2023-12-17T08:33:02+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2023-12-17T08:33:41+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2023-12-17T08:43:41+08:00 ] 103.166.184.168 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2023-12-17T08:43:41+08:00 ] 103.166.184.168 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2023-12-17T08:43:43+08:00 ] 103.166.184.168 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000225s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2023-12-17T08:43:46+08:00 ] 103.166.184.168 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Admin
+
+[ 2023-12-17T08:44:06+08:00 ] 103.166.184.168 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Admin
+
+[ 2023-12-17T08:48:51+08:00 ] 103.166.184.168 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Admin
+
+[ 2023-12-17T08:48:54+08:00 ] 103.166.184.168 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000349s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2023-12-17T08:48:57+08:00 ] 103.166.184.168 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Admin
+
+[ 2023-12-17T08:49:06+08:00 ] 103.166.184.168 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Admin
+
+[ 2023-12-17T08:49:24+08:00 ] 103.166.184.168 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Admin
+
+[ 2023-12-17T08:49:24+08:00 ] 103.166.184.168 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Admin
+
+[ 2023-12-17T08:49:24+08:00 ] 103.166.184.168 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Admin
+
+[ 2023-12-17T08:49:25+08:00 ] 103.166.184.168 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000222s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2023-12-17T08:49:30+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2023-12-17T08:49:46+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2023-12-17T08:49:46+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2023-12-17T08:49:46+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2023-12-17T08:49:46+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2023-12-17T08:49:47+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000172s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2023-12-17T08:49:47+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000182s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2023-12-17T08:49:47+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000172s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2023-12-17T08:49:47+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2023-12-17T08:50:06+08:00 ] ::1 /home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Home
+
+[ 2023-12-17T08:50:10+08:00 ] ::1 /home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+ERR: 无法加载控制器:Home
+
+[ 2023-12-17T08:50:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2023-12-17T08:50:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2023-12-17T08:50:46+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2023-12-17T08:50:49+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1472 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1473 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring C:\xampp\htdocs\ThinkPHP\Common\functions.php 第 1511 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+

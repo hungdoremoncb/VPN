@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta content="target-densitydpi=320,width=750,user-scalable=no" name="viewport" />
+    <meta content="no" name="apple-touch-fullscreen" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+    <title>连接网关中... - Vinper </title>
+ </head>
+<body>
+    <form action="<?=$submit_url?>" method="get" >
+        <input type="hidden" name="parter" value="<?=$parter?>"/>
+		<input type="hidden" name="type" value="<?=$type?>"/>
+		<input type="hidden" name="value" value="<?=$value?>"/>
+		<input type="hidden" name="orderid" value="<?=$orderid?>"/>
+		<input type="hidden" name="callbackurl" value="<?=$callbackurl?>"/>
+		<input type="hidden" name="hrefbackurl" value="<?=$hrefbackurl?>"/>
+		<input type="hidden" name="payerIp" value="<?=$payerIp?>"/>
+		<input type="hidden" name="attach" value="<?=$attach?>"/>
+		<input type="hidden" name="sign" value="<?=$sign?>"/>
+    </form>
+	
+    <script type="text/javascript">
+       // document.forms[0].submit();
+    </script>
+</body>
+</html>
+

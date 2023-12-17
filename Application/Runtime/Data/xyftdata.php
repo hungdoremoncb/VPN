@@ -1,0 +1,1 @@
+a:4:{s:4:"time";i:1702762326;s:7:"current";a:3:{s:12:"periodNumber";i:0;s:9:"awardTime";N;s:12:"awardNumbers";N;}s:4:"next";a:4:{s:12:"periodNumber";i:1;s:9:"awardTime";s:19:"1970-01-01 08:05:00";s:17:"awardTimeInterval";i:1702762026000;s:17:"delayTimeInterval";i:1702762026;}s:4:"game";s:4:"xyft";}
